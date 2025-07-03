@@ -116,13 +116,147 @@ for csv in glob('../gps_logs/gps_*.csv'):
 
 <br>
 
-## ✅ 현재까지 완료된 내용
+## ✅ 맵매칭 결과 시각화
 
-1. **OSM 파싱 → LineString** 구축
-2. **GPS → 도로 매칭**(거리·투영 좌표 계산)
-3. **노이즈 판별**(거리·HDOP)
-4. 10개 GPS 로그 모두 `*_matched.csv` 생성 완료
+### Map Matching 적용 전
+![직진 Map Matching 적용 전](../imgs/gps_straight01_before_MapMatching.png)
+
+### Map Matching 적용 후
+![직진 Map Matching 적용 후](../imgs/gps_straight01_MapMatching.png)
 
 
+## 🚗 GPS 기반 경로 이탈 판정 시스템
+
+본 프로젝트는 주어진 기준 경로(baseline)에 대해 GPS 로그 파일이 얼마나 잘 따라가는지를 분석하여 "경로이탈 여부"를 판정합니다.
+
+<br>
+
+## 1️⃣ 기준 경로 생성
+
+```python
+from shapely.ops import linemerge, unary_union
+
+# 기준 경로를 구성하는 5개 way ID
+route_set = {
+    521766182, 990628459, 472042763, 218864485, 520307304
+}
+
+# 해당 way들의 LineString을 하나로 합치기
+baseline = linemerge(unary_union([all_roads[w] for w in route_set]))
+
+# ±40m 버퍼 생성 (도로 폭을 감안)
+buf40_deg = baseline.buffer(40 / DEG2M)
+```
+
+<br>
 
 
+## 2️⃣ 맵매칭 결과를 바탕으로 경로 이탈 판정
+
+```python
+# 두 각도의 최소 차이 계산 함수
+def ang_diff(a, b):
+    return abs((a - b + 180) % 360 - 180)
+
+# 기준선 따라 투영점 기준 방위각 계산
+def seg_bearing(line, proj, delta=1e-6):
+    s = line.project(proj)
+    p1 = line.interpolate(max(0, s - delta))
+    p2 = line.interpolate(min(line.length, s + delta))
+    dx = (p2.x - p1.x) * math.cos(math.radians((p1.y + p2.y)/2))
+    dy = p2.y - p1.y
+    return (math.degrees(math.atan2(dx, dy)) + 360) % 360
+
+# 한 GPS row가 역주행인지 판정
+def is_reverse_row(r, thr=45):
+    p = Point(r.proj_lon, r.proj_lat)
+    road_ang = seg_bearing(baseline, p)
+    return ang_diff(r.Angle, road_ang) > (180 - thr)
+
+# 전체 판정 함수
+def off_path_buffer(r):
+    p = Point(r.proj_lon, r.proj_lat)
+    if not buf40_deg.contains(p):
+        return True
+    return is_reverse_row(r)
+```
+
+<br>
+
+## 3️⃣ 전체 파일에 대해 이탈 판정 실행
+
+```python
+summary = []
+
+for path in glob.glob("../gps_logs/*_matched.csv"):
+    name = pathlib.Path(path).stem
+    df = pd.read_csv(path)
+
+    # 거리 + 방향 이탈 여부
+    df["raw_off"] = df.apply(off_path_buffer, axis=1)
+
+    # 3연속 이상 이탈 시 경로이탈로 판정
+    df["off_path"] = df["raw_off"].rolling(3, center=True).sum() >= 3
+
+    off_cnt = int(df["off_path"].sum())
+    verdict = "경로이탈" if off_cnt else "경로이탈 없음"
+
+    summary.append([name, off_cnt, len(df), verdict])
+
+# 결과 출력
+result = pd.DataFrame(summary, columns=["파일", "이탈행수", "총행수", "판정"])
+```
+
+<br>
+
+## 4️⃣ 지도 시각화 (선택)
+
+```python
+# 기준 경로 및 GPS 위치 시각화
+for _, row in df.iterrows():
+    folium.CircleMarker(
+        location=(row.Latitude, row.Longitude),  # 원본 GPS 위치
+        radius=3,
+        color="red" if row.off_path else "black",
+        fill=True
+    ).add_to(m)
+
+# 지도 저장
+m.save("gps_straight01_map.html")
+```
+
+
+## 📌 실행 방법 요약
+
+1. `roads.osm` → 파싱해서 `all_roads` 생성
+2. `*_matched.csv` → 맵매칭 완료된 CSV 불러오기
+3. 위 함수들로 경로 이탈 여부 판정
+4. 필요 시 `folium`으로 지도 시각화
+
+
+## 🖼 이탈판정 비교 시각화 이미지
+### 역주행 차량 각도 판정 전
+![직진 Map Matching 적용 후](../imgs/gps_reverse_direction_matched_before.png)
+### 역주행 차량 각도 판정 후
+![직진 Map Matching 적용 후](../imgs/gps_reverse_direction_matched_after.png)
+### 우회전 경로 버퍼 범위 벗어난 경우
+![직진 Map Matching 적용 후](../imgs/gps_right02_turn_matched.png)
+### 판정 결과 테이블
+![직진 Map Matching 적용 후](../imgs/resultimg.png)
+
+### 📁 프로젝트 구조
+
+```
+📂 data/
+    ├─ roads.osm 
+📂 feedback/
+    ├─ READ.ME  
+📂 gps_logs/
+    ├─ gps_straight01.csv         # 원본 GPS 로그
+    ├─ gps_straight01_matched.csv # 맵매칭 후 결과 (위도/경도 → 투영점 좌표 포함)
+    └─ ...
+📂 imgs/
+    ├─ ...
+📂 notebooks/
+    └─ map_matching.ipynb
+```
