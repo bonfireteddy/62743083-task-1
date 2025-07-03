@@ -1,5 +1,23 @@
-# 62743083-task-1 Map Matching
+# 62743083-task-1 Map Matching&경로이탈
 
+## 👨‍💻 지원자 정보
+- 이름: 윤태섭
+- 포지션: ICT 개발 지원
+- 프로젝트 사용 기술: Python, Jupyter, Anaconda
+<br>
+
+## 💻프로젝트 실행 방법
+
+### 1. 실행 환경
+- Python 3.8 이상 환경 필요 (Anaconda 또는 python.org 설치 권장)
+- 필수 패키지: pandas, shapely, folium, tabulate, xmltodict
+- VS Code + Jupyter 확장 또는 jupyter notebook으로 실행 가능
+
+### 2. 실행 방법
+1. pip install -r requirements.txt 또는 상단 pip 셀 실행
+2. jupyter notebook 또는 jupyter lab 실행 후 .ipynb 열기
+3. gps_logs, osm 폴더와 데이터 파일 경로 맞추고 셀 순서대로 실행
+<br>
 
 ## 📦 사용 라이브러리
 
