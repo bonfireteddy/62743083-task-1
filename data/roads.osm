@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="OSM road extractor"><node id="436854331" visible="true" version="8" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4969787" lon="127.0242100"/>
+ <node id="1906756396" visible="true" version="11" changeset="129424991" timestamp="2022-11-27T07:56:17Z" user="ljc_jlyb" uid="14280033" lat="37.4975028" lon="127.0259134"/>
+ <node id="2280678660" visible="true" version="7" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4984367" lon="127.0294169"/>
+ <node id="2280678664" visible="true" version="9" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4987176" lon="127.0298353"/>
+ <node id="2280678667" visible="true" version="8" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4989338" lon="127.0310733"/>
+ <node id="2280678672" visible="true" version="9" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4990814" lon="127.0310001"/>
+ <node id="2280678677" visible="true" version="6" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4992091" lon="127.0320017"/>
+ <node id="2280678683" visible="true" version="10" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4994695" lon="127.0267729"/>
+ <node id="2280678689" visible="true" version="5" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4994654" lon="127.0328273"/>
+ <node id="2280678694" visible="true" version="12" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4995490" lon="127.0269934"/>
+ <node id="2280678699" visible="true" version="4" changeset="85373984" timestamp="2020-05-18T09:36:57Z" user="octel" uid="238290" lat="37.4998173" lon="127.0339983"/>
+ <node id="2280678705" visible="true" version="4" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4999818" lon="127.0339114"/>
+ <node id="2280678711" visible="true" version="5" changeset="85373984" timestamp="2020-05-18T09:36:57Z" user="octel" uid="238290" lat="37.5003255" lon="127.0356986"/>
+ <node id="2280678716" visible="true" version="5" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.5005054" lon="127.0355884"/>
+ <node id="2280678728" visible="true" version="4" changeset="85373984" timestamp="2020-05-18T09:36:57Z" user="octel" uid="238290" lat="37.5007121" lon="127.0369935"/>
+ <node id="2280678732" visible="true" version="3" changeset="85373984" timestamp="2020-05-18T09:36:57Z" user="octel" uid="238290" lat="37.5009049" lon="127.0369107"/>
+ <node id="2477255860" visible="true" version="5" changeset="148421720" timestamp="2024-03-09T13:07:49Z" user="SilkBlue" uid="5177972" lat="37.5002125" lon="127.0346502"/>
+ <node id="2477260921" visible="true" version="9" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4984961" lon="127.0274875"/>
+ <node id="2477260922" visible="true" version="3" changeset="140869605" timestamp="2023-09-05T21:41:42Z" user="Rombardo" uid="5605765" lat="37.4983913" lon="127.0275934"/>
+ <node id="2477260930" visible="true" version="5" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4996292" lon="127.0327485"/>
+ <node id="2624215076" visible="true" version="8" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4982952" lon="127.0284946"/>
+ <node id="2624215077" visible="true" version="8" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4980478" lon="127.0276806"/>
+ <node id="3054698333" visible="true" version="7" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.5009804" lon="127.0260403">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="3087683154" visible="true" version="7" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4962841" lon="127.0282928"/>
+ <node id="3089780830" visible="true" version="5" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4979234" lon="127.0277302"/>
+ <node id="3089780834" visible="true" version="5" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4979843" lon="127.0274725"/>
+ <node id="3089780836" visible="true" version="8" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4981414" lon="127.0284387"/>
+ <node id="3089780838" visible="true" version="4" changeset="140869605" timestamp="2023-09-05T21:41:42Z" user="Rombardo" uid="5605765" lat="37.4982561" lon="127.0279697"/>
+ <node id="3089780840" visible="true" version="10" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4976567" lon="127.0264051"/>
+ <node id="3089780844" visible="true" version="9" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4972561" lon="127.0250866"/>
+ <node id="3101785826" visible="true" version="3" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4979697" lon="127.0271574"/>
+ <node id="3101785827" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4980832" lon="127.0272310"/>
+ <node id="3101785828" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4982784" lon="127.0272538"/>
+ <node id="3101791329" visible="true" version="6" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4984526" lon="127.0272447"/>
+ <node id="3112723452" visible="true" version="6" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.5007139" lon="127.0261580"/>
+ <node id="3144848932" visible="true" version="6" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4982250" lon="127.0287197"/>
+ <node id="3144858729" visible="true" version="8" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4963267" lon="127.0284970"/>
+ <node id="3825549672" visible="true" version="5" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4947201" lon="127.0293249"/>
+ <node id="3825549802" visible="true" version="6" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4986872" lon="127.0302498"/>
+ <node id="4332497685" visible="true" version="3" changeset="148421720" timestamp="2024-03-09T13:07:49Z" user="SilkBlue" uid="5177972" lat="37.5004578" lon="127.0354358"/>
+ <node id="4332497687" visible="true" version="3" changeset="148421720" timestamp="2024-03-09T13:07:49Z" user="SilkBlue" uid="5177972" lat="37.5002757" lon="127.0355318"/>
+ <node id="4865883249" visible="true" version="5" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4955671" lon="127.0286366">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="4865883250" visible="true" version="3" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4958431" lon="127.0287430"/>
+ <node id="4865883253" visible="true" version="3" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4949431" lon="127.0289478"/>
+ <node id="4865883255" visible="true" version="4" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4952127" lon="127.0290893">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="4867295778" visible="true" version="5" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4998762" lon="127.0268379"/>
+ <node id="4984342399" visible="true" version="5" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4974536" lon="127.0277227"/>
+ <node id="4984342400" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4938103" lon="127.0296961"/>
+ <node id="5930940986" visible="true" version="5" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4973486" lon="127.0279938"/>
+ <node id="7168335697" visible="true" version="4" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4978655" lon="127.0275307"/>
+ <node id="7561738192" visible="true" version="3" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4995568" lon="127.0331260">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7561738193" visible="true" version="3" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4997200" lon="127.0330459">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7838702928" visible="true" version="3" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4981939" lon="127.0272513"/>
+ <node id="8489896379" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4975833" lon="127.0275881"/>
+ <node id="8489896380" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4977036" lon="127.0273480"/>
+ <node id="8489896381" visible="true" version="5" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4978060" lon="127.0269036"/>
+ <node id="8494274555" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4981000" lon="127.0283071"/>
+ <node id="8494274556" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4979741" lon="127.0281765"/>
+ <node id="8494274557" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4977798" lon="127.0280278"/>
+ <node id="8494274558" visible="true" version="2" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4976549" lon="127.0279709"/>
+ <node id="8494274559" visible="true" version="3" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4974989" lon="127.0279245"/>
+ <node id="8552337603" visible="true" version="1" changeset="101543620" timestamp="2021-03-23T05:24:17Z" user="시믹보" uid="12549208" lat="37.5005166" lon="127.0363387"/>
+ <node id="8552337604" visible="true" version="1" changeset="101543620" timestamp="2021-03-23T05:24:17Z" user="시믹보" uid="12549208" lat="37.5007244" lon="127.0362948"/>
+ <node id="8556713272" visible="true" version="1" changeset="101637830" timestamp="2021-03-24T10:36:58Z" user="Sebin Johny" uid="8782072" lat="37.5003987" lon="127.0359367"/>
+ <node id="9230542302" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4942183" lon="127.0295193"/>
+ <node id="9230542306" visible="true" version="3" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4951469" lon="127.0288612">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9230542310" visible="true" version="4" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4966908" lon="127.0280994">
+  <tag k="bus" v="yes"/>
+  <tag k="name" v="강남역서초현대타워앞"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="9230542311" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4978713" lon="127.0280842"/>
+ <node id="9230542312" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4976763" lon="127.0274312"/>
+ <node id="9230542313" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4976264" lon="127.0275234"/>
+ <node id="9230542314" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4977254" lon="127.0272295"/>
+ <node id="9230542315" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4980265" lon="127.0272022"/>
+ <node id="9230542316" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4982693" lon="127.0278672"/>
+ <node id="9230557517" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4982554" lon="127.0280813"/>
+ <node id="9230557518" visible="true" version="3" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4982636" lon="127.0282155"/>
+ <node id="9230557519" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4983324" lon="127.0276926"/>
+ <node id="9230557520" visible="true" version="2" changeset="140869605" timestamp="2023-09-05T21:41:42Z" user="Rombardo" uid="5605765" lat="37.4982962" lon="127.0277758"/>
+ <node id="9230557521" visible="true" version="3" changeset="142028140" timestamp="2023-10-02T08:51:41Z" user="Rombardo" uid="5605765" lat="37.4979193" lon="127.0270856"/>
+ <node id="9230557522" visible="true" version="1" changeset="113452046" timestamp="2021-11-06T15:57:21Z" user="rkdclgh" uid="10604125" lat="37.4981390" lon="127.0272472"/>
+ <node id="9230557523" visible="true" version="3" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4988252" lon="127.0270739"/>
+ <node id="9621002504" visible="true" version="1" changeset="119070611" timestamp="2022-03-29T13:31:15Z" user="ljc_jlyb" uid="14280033" lat="37.4976276" lon="127.0279619">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9621002506" visible="true" version="4" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4956380" lon="127.0288739">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="9632500767" visible="true" version="3" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4985857" lon="127.0271815"/>
+ <node id="9711448901" visible="true" version="5" changeset="142257222" timestamp="2023-10-07T07:08:04Z" user="Smith989" uid="17572030" lat="37.4970337" lon="127.0243847">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607762" visible="true" version="4" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4991493" lon="127.0312231">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607763" visible="true" version="3" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4990030" lon="127.0312957">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607765" visible="true" version="3" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4988829" lon="127.0308964">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607766" visible="true" version="4" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4990249" lon="127.0308263">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607775" visible="true" version="1" changeset="123648753" timestamp="2022-07-15T11:27:02Z" user="izolight" uid="2821324" lat="37.5006354" lon="127.0367367">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9889607776" visible="true" version="1" changeset="123648753" timestamp="2022-07-15T11:27:02Z" user="izolight" uid="2821324" lat="37.5008276" lon="127.0366468">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="10220955574" visible="true" version="1" changeset="129424991" timestamp="2022-11-27T07:56:17Z" user="ljc_jlyb" uid="14280033" lat="37.4968665" lon="127.0242620"/>
+ <node id="10220955575" visible="true" version="1" changeset="129424991" timestamp="2022-11-27T07:56:17Z" user="ljc_jlyb" uid="14280033" lat="37.4977473" lon="127.0271262"/>
+ <node id="10220955576" visible="true" version="2" changeset="142257222" timestamp="2023-10-07T07:08:04Z" user="Smith989" uid="17572030" lat="37.4969210" lon="127.0244394">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="10220955577" visible="true" version="2" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4971395" lon="127.0251523"/>
+ <node id="10220955578" visible="true" version="2" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4973840" lon="127.0259418"/>
+ <node id="10220955579" visible="true" version="1" changeset="129424991" timestamp="2022-11-27T07:56:17Z" user="ljc_jlyb" uid="14280033" lat="37.4976804" lon="127.0269087"/>
+ <node id="11170694839" visible="true" version="2" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4988374" lon="127.0273284"/>
+ <node id="11170694840" visible="true" version="1" changeset="140869605" timestamp="2023-09-05T21:41:42Z" user="Rombardo" uid="5605765" lat="37.4982590" lon="127.0279212"/>
+ <node id="11174484637" visible="true" version="4" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4980286" lon="127.0276176"/>
+ <node id="11174484638" visible="true" version="2" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4979036" lon="127.0276629"/>
+ <node id="11179628419" visible="true" version="3" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4980172" lon="127.0275803"/>
+ <node id="11179628420" visible="true" version="2" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4978910" lon="127.0276206"/>
+ <node id="11179628429" visible="true" version="3" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4970649" lon="127.0279146"/>
+ <node id="11183748444" visible="true" version="1" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4976342" lon="127.0276374"/>
+ <node id="11183748445" visible="true" version="1" changeset="141119514" timestamp="2023-09-11T15:27:21Z" user="Rombardo" uid="5605765" lat="37.4980948" lon="127.0274215"/>
+ <node id="11245176928" visible="true" version="1" changeset="142257305" timestamp="2023-10-07T07:12:58Z" user="Smith989" uid="17572030" lat="37.4969053" lon="127.0243881">
+  <tag k="direction" v="250"/>
+  <tag k="highway" v="speed_camera"/>
+  <tag k="maxspeed" v="50"/>
+ </node>
+ <node id="11847324474" visible="true" version="1" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4981694" lon="127.0276405"/>
+ <node id="11847324475" visible="true" version="1" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4983732" lon="127.0275468"/>
+ <node id="11847324476" visible="true" version="1" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4992308" lon="127.0271479"/>
+ <node id="11847324495" visible="true" version="1" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4996654" lon="127.0266752"/>
+ <node id="11847324496" visible="true" version="1" changeset="150497076" timestamp="2024-04-25T13:32:51Z" user="Rombardo" uid="5605765" lat="37.4993400" lon="127.0268383"/>
+ <node id="12741729343" visible="true" version="1" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.5004030" lon="127.0263114"/>
+ <node id="12741729344" visible="true" version="1" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814" lat="37.4996021" lon="127.0269681"/>
+ <way id="218864485" visible="true" version="34" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="2624215077"/>
+  <nd ref="11847324474"/>
+  <nd ref="11847324475"/>
+  <nd ref="2477260921"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="218864491" visible="true" version="30" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="2280678660"/>
+  <nd ref="3825549802"/>
+  <nd ref="9889607765"/>
+  <nd ref="2280678667"/>
+  <nd ref="9889607763"/>
+  <nd ref="2280678677"/>
+  <nd ref="2280678689"/>
+  <nd ref="7561738192"/>
+  <nd ref="2280678699"/>
+  <nd ref="4332497687"/>
+  <nd ref="2280678711"/>
+  <nd ref="8556713272"/>
+  <nd ref="8552337603"/>
+  <nd ref="9889607775"/>
+  <nd ref="2280678728"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="218873820" visible="true" version="26" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="9230542310"/>
+  <nd ref="3087683154"/>
+  <nd ref="4865883249"/>
+  <nd ref="9230542306"/>
+  <nd ref="4865883253"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="8"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="218877837" visible="true" version="31" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814">
+  <nd ref="3054698333"/>
+  <nd ref="3112723452"/>
+  <nd ref="12741729343"/>
+  <nd ref="11847324495"/>
+  <nd ref="2280678683"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="8"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="239954010" visible="true" version="13" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="2624215076"/>
+  <nd ref="9230557518"/>
+  <nd ref="9230557517"/>
+  <nd ref="3089780838"/>
+  <nd ref="11170694840"/>
+  <nd ref="9230542316"/>
+  <nd ref="9230557520"/>
+  <nd ref="9230557519"/>
+  <nd ref="2477260922"/>
+  <nd ref="2477260921"/>
+  <tag k="highway" v="primary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="304445274" visible="true" version="12" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="3089780834"/>
+  <nd ref="8489896381"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="305539406" visible="true" version="11" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="3101791329"/>
+  <nd ref="3101785828"/>
+  <nd ref="7838702928"/>
+  <nd ref="9230557522"/>
+  <nd ref="3101785827"/>
+  <nd ref="9230542315"/>
+  <nd ref="3101785826"/>
+  <nd ref="9230557521"/>
+  <nd ref="8489896381"/>
+  <tag k="highway" v="primary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="survey, Bing"/>
+ </way>
+ <way id="375049565" visible="true" version="22" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="2280678732"/>
+  <nd ref="9889607776"/>
+  <nd ref="8552337604"/>
+  <nd ref="2280678716"/>
+  <nd ref="4332497685"/>
+  <nd ref="2477255860"/>
+  <nd ref="2280678705"/>
+  <nd ref="7561738193"/>
+  <nd ref="2477260930"/>
+  <nd ref="9889607762"/>
+  <nd ref="2280678672"/>
+  <nd ref="9889607766"/>
+  <nd ref="2280678664"/>
+  <nd ref="2624215076"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="472042763" visible="true" version="10" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="3089780830"/>
+  <nd ref="11034387027"/>
+  <nd ref="2624215077"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="472042764" visible="true" version="11" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="10220955575"/>
+  <nd ref="7168335697"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="472042765" visible="true" version="13" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="3089780834"/>
+  <nd ref="11034387028"/>
+  <nd ref="7168335697"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="472042766" visible="true" version="17" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="2624215077"/>
+  <nd ref="11174484637"/>
+  <nd ref="11179628419"/>
+  <nd ref="3089780834"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン 路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="480850873" visible="true" version="12" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="8489896381"/>
+  <nd ref="3089780840"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="494824662" visible="true" version="15" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="4984342400"/>
+  <nd ref="9230542302"/>
+  <nd ref="3825549672"/>
+  <nd ref="4865883255"/>
+  <nd ref="9621002506"/>
+  <nd ref="4865883250"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="494952007" visible="true" version="13" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="7168335697"/>
+  <nd ref="11179628420"/>
+  <nd ref="11174484638"/>
+  <nd ref="3089780830"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="504227065" visible="true" version="9" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="1906756396"/>
+  <nd ref="3089780844"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="504231011" visible="true" version="11" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="3089780844"/>
+  <nd ref="9711448901"/>
+  <nd ref="11245176923"/>
+  <nd ref="436854331"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="504512001" visible="true" version="8" changeset="153883286" timestamp="2024-07-13T08:30:55Z" user="ljc_jlyb" uid="14280033">
+  <nd ref="3089780840"/>
+  <nd ref="1906756396"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="520307303" visible="true" version="13" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="2624215076"/>
+  <nd ref="2624215077"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン 路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="520307304" visible="true" version="16" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814">
+  <nd ref="2477260921"/>
+  <nd ref="11170694839"/>
+  <nd ref="11847324476"/>
+  <nd ref="2280678694"/>
+  <nd ref="12741729344"/>
+  <nd ref="4867295778"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="521766174" visible="true" version="15" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="7168335697"/>
+  <nd ref="11183748444"/>
+  <nd ref="4984342399"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="521766182" visible="true" version="14" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="4865883250"/>
+  <nd ref="3144858729"/>
+  <nd ref="5930940986"/>
+  <nd ref="8494274559"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="523141074" visible="true" version="15" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="2280678683"/>
+  <nd ref="11847324496"/>
+  <nd ref="9230557523"/>
+  <nd ref="9632500767"/>
+  <nd ref="3101791329"/>
+  <nd ref="11183748445"/>
+  <nd ref="3089780834"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="628232693" visible="true" version="8" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="5930940986"/>
+  <nd ref="3089780836"/>
+  <tag k="highway" v="primary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="913949669" visible="true" version="9" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814">
+  <nd ref="10220955575"/>
+  <nd ref="9230542314"/>
+  <nd ref="8489896380"/>
+  <nd ref="9230542312"/>
+  <nd ref="9230542313"/>
+  <nd ref="8489896379"/>
+  <nd ref="4984342399"/>
+  <tag k="highway" v="primary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="914407834" visible="true" version="7" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="8494274559"/>
+  <nd ref="9621002504"/>
+  <nd ref="8494274558"/>
+  <nd ref="8494274557"/>
+  <nd ref="9230542311"/>
+  <nd ref="8494274556"/>
+  <nd ref="8494274555"/>
+  <tag k="highway" v="primary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="975332778" visible="true" version="8" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="8494274555"/>
+  <nd ref="3089780836"/>
+  <nd ref="3144848932"/>
+  <nd ref="2280678660"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="990628459" visible="true" version="6" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="8494274559"/>
+  <nd ref="3089780830"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="5"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="990628460" visible="true" version="7" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="3089780830"/>
+  <nd ref="8494274555"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="name" v="테헤란로"/>
+  <tag k="name:en" v="Teheran-ro"/>
+  <tag k="name:ja" v="テヘラン路"/>
+  <tag k="name:ko" v="테헤란로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="1117538957" visible="true" version="6" changeset="159243775" timestamp="2024-11-17T13:53:13Z" user="guichanta" uid="22188041">
+  <nd ref="10220955574"/>
+  <nd ref="11245176928"/>
+  <nd ref="10220955576"/>
+  <nd ref="10220955577"/>
+  <nd ref="10220955578"/>
+  <nd ref="10220955579"/>
+  <nd ref="10220955575"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="6"/>
+  <tag k="name" v="서초대로"/>
+  <tag k="name:en" v="Seocho-daero"/>
+  <tag k="name:ko" v="서초대로"/>
+  <tag k="name:zh" v="瑞草大路"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="90"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="1229817205" visible="true" version="4" changeset="164729899" timestamp="2025-04-09T15:18:39Z" user="aaei924" uid="10626814">
+  <nd ref="4984342399"/>
+  <nd ref="11179628429"/>
+  <nd ref="9230542310"/>
+  <tag k="access" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="name" v="강남대로"/>
+  <tag k="name:en" v="Gangnam-daero"/>
+  <tag k="name:ja" v="江南大路"/>
+  <tag k="name:ko" v="강남대로"/>
+  <tag k="name:ko-Latn" v="Gangnam-daero"/>
+  <tag k="ncat" v="광역시도로"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="41"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ </osm>
