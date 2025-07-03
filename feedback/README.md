@@ -10,7 +10,7 @@
 | CSV·데이터 처리  | **pandas**             | `read_csv`, `apply`, 정렬·저장 등                      |
 | OSM(XML) 파싱 | **xmltodict**          | 한 줄로 XML → 딕셔너리 변환                                |
 | 지오메트리 엔진    | **shapely**            | `Point`, `LineString`, `nearest_points`, 거리·투영 계산 |
-| 파일 순회       | `glob`, `pathlib.Path` | 여러 GPS CSV 일괄 처리                                  |
+| 파일 순회       | **glob**, **pathlib.Path** | 여러 GPS CSV 일괄 처리                                  |
 
 ```bash
 pip install pandas xmltodict shapely
@@ -22,15 +22,15 @@ pip install pandas xmltodict shapely
 
 | 이름          | 형태                    | 설명                                           |
 | ----------- | --------------------- | -------------------------------------------- |
-| `nodes`     | `{노드ID: (lon, lat)}`  | `<node ..>` 태그 모두를 딕셔너리로 저장                  |
-| `all_roads` | `{wayID: LineString}` | `<way>` → 노드ID → 좌표 리스트 → `LineString`(노드≥2) |
-| `df`        | DataFrame             | GPS CSV + 매칭 컬럼 포함                           |
+| nodes     | 노드ID: (lon, lat)  | <node ..> 태그 모두를 딕셔너리로 저장                  |
+| all_roads | {wayID: LineString} | <way> → 노드ID → 좌표 리스트 → LineString(노드≥2) |
+| df      | DataFrame             | GPS CSV + 매칭 컬럼 포함                           |
 
 <br>
 
 ## 🔑 핵심 함수
 
-### 1) OSM 파싱 → `nodes`, `all_roads`
+### 1) OSM 파싱 → **nodes**, **all_roads**
 
 ```python
 # nodes
@@ -67,7 +67,7 @@ def find_closest_road(lon, lat, roads):
     return best_way, best_d * DEG2M, best_proj  # metres
 ```
 
-### 3) `match_row()` – DataFrame `apply`용
+### 3) match_row() – DataFrame apply용
 
 ```python
 def match_row(row):
